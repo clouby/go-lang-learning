@@ -8,4 +8,7 @@
 - [x] More Types: struct, slices and maps
 
 ## Methods and Interfaces
-- [] Methods and Interfaces (⚙️)
+- [x] Methods and Interfaces
+
+## Concurrency
+- Goroutines (⚙️)
